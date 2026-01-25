@@ -15,6 +15,7 @@ if a + b > c and a + c > b and b + c > a:
         print("Isosceles")
     else:
         print("Scalene")
+        
 else:
     print("Not a valid triangle")
 

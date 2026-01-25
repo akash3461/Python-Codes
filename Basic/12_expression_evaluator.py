@@ -22,9 +22,9 @@ else:
     print("Invalid operator")
 
 '''
-            Example Output:
-Enter first number: 10
-Enter operator (+ - * /): *
-Enter second number: 5
-50.0
-''' 
+        Example Output:
+    Enter first number: 10
+    Enter operator (+ - * /): *
+    Enter second number: 5
+    50.0
+                                ''' 
